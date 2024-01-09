@@ -1,0 +1,16 @@
+tasks:
+  - name: prepare env
+    init: |
+      pyenv install 3.11.2
+      pyenv global 3.11.2
+      sudo apt-get update && sudo apt-get install ffmpeg libsm6 libxext6  -y
+      pip install -r requirements.txt
+
+vscode:
+  extensions:
+    - ms-python.python
+    - ms-python.vscode-pylance
+    - ms-toolsai.jupyter
+    - streetsidesoftware.code-spell-checker
+    - eamodio.gitlens
+    - yzhang.markdown-all-in-one
