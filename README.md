@@ -1,4 +1,4 @@
-[![GitHub last commit](https://img.shields.io/github/last-commit/ruankie/poetry-py-template)](https://github.com/ruankie/poetry-py-template/commits/main)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ruankie/deepface-play)](https://github.com/ruankie/poetry-py-template/commits/main)
 
 # deepface-play
 
